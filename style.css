@@ -1,0 +1,24 @@
+.box{
+    background-color:green;
+    color:red;
+    height: 380px;
+    width: 600px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 12px 7px lightslategrey;
+    border: dotted;
+    margin-left: 250px;
+    margin-top: 80px;
+    background-image: url(https://i.pinimg.com/564x/19/09/fe/1909fe926920da46e727d53a1ac31dcb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 50px;
+box-shadow: 10px 8px 5px 2px grey;
+}
+
